@@ -6,7 +6,7 @@ class Gswitch < Formula
   sha256 "a9ca16f429c9b91f96078dac9eed6357f112fa8617bf513bd605471d80f2a80d"
 
   def install
-    bin.install "bin/gswitch"
+    bin.install "gswitch"
   end
 end
 
